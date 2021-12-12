@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Susie Stanley
 
-- 📚 I'm currently a student at Nashville Software School studying Front-End Web Development
+- 📚 I'm currently a student at Nashville Software School studying Front-End Web Development & UI/UX Design
 
 - 🐩 My passions include css, canva, diy carpentry, and my 5lb poodle
 
