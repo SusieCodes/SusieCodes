@@ -6,4 +6,4 @@
 
 - 🛠 Fun fact: I'm a Canadian-American 🇨🇦 🇺🇸 that speaks Hungarian 🇭🇺, and I can't live with my power tools! 
 
-- 🚀 Ask me about my love of travel
+- 🚀 Ask me about my love of travel & learning new languages
