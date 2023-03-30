@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Susie Stanley
 
-- 📚 I'm a Front-End Web Development & UI/UX Designer
+- 📚 I'm a Front-End Web Developer & UI/UX Designer
 
 - 🐩 My passions include css/sass, Figma, graphic design, diy, carpentry, and my 5lb poodle
 
