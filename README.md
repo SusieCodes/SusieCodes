@@ -8,4 +8,4 @@
 
 - 🚀 Ask me about my love of travel & learning new languages
 
-P.S. My daily github work is on my company account so are not reflected in my contributions chart here :)
+P.S. My daily github work is on my company account since Feb 2022 so are not reflected in my contributions chart here :)
